@@ -19,6 +19,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jeffrey_koshy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-koshy/)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <!--
 **koshy123/koshy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
