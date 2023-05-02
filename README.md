@@ -11,7 +11,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philadelphia, PA.
 
-- :telescope: I’m working as a Software Engineer and constructing freelance projects for various organizations.
+- :telescope: I’m working as a Software Engineer by constructing freelance projects for various organizations.
 
 - :seedling: Like a plant, I continue to grow my developmental skills daily.
 
